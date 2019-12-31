@@ -16,15 +16,15 @@ jsproxy_config({
       label: '演示服务-香港节点',
       lines: {
         // 主机:权重
-        'gentle-paper-c9a2.zarathustra.workers.dev': 1,
+        '108.61.200.98.xip.io:8443': 1,
 ': 1,
-        'red-flower-85e1.ubermensch.workers.dev': 2,
+        '108.61.200.98.xip.io:8443': 2,
       }
     },
     'demo-sg': {
       label: '演示服务-新加坡节点',
       lines: {
-        'red-flower-85e1.ubermensch.workers.dev': 1,
+        '108.61.200.98.xip.io:8443': 1,
       },
     },
     'mysite': {
