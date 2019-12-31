@@ -30,7 +30,7 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        [red-flower-85e1.ubermensch.workers.dev]: 1,
+        [108.61.200.98.xip.io:8443]: 1,
       }
     },
     // 该节点用于加载大体积的静态资源
